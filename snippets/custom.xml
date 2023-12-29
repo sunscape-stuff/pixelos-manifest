@@ -74,7 +74,6 @@
 
   <!-- Hardware -->
   <project path="hardware/lineage/interfaces" name="hardware_lineage_interfaces" remote="PixelOS" />
-  <project path="hardware/qcom-caf/sm8450/display" name="hardware_qcom_sm8450_display" groups="qcom" remote="PixelOS" />
 
   <!-- Packages -->
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="PixelOS" />
