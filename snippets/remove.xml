@@ -4,6 +4,7 @@
   <!-- Rootdir -->
   <remove-project name="platform/art" />
   <remove-project name="platform/bionic" />
+  <remove-project name="platform/libcore" />
 
   <!-- Bootable -->
   <remove-project name="platform/bootable/recovery" />
@@ -117,6 +118,7 @@
   <remove-project name="platform/packages/modules/adb" />
   <remove-project name="platform/packages/modules/Bluetooth"/>
   <remove-project name="platform/packages/modules/common"/>
+  <remove-project name="platform/packages/modules/Virtualization" />
   <remove-project name="platform/packages/modules/Wifi" />
   <remove-project name="platform/packages/services/Telecomm"/>
   <remove-project name="platform/packages/services/Telephony"/>
